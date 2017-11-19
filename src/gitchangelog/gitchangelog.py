@@ -31,7 +31,7 @@ except ImportError:  ## pragma: no cover
     mako = None
 
 
-__version__ = "%%version%%"  ## replaced by autogen.sh
+__version__ = "3.0.3"  ## replaced by autogen.sh
 
 DEBUG = None
 
